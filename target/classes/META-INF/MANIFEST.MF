@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TMAssessment
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shashinath
+Implementation-Vendor-Id: com.tm.assessment
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TMAssessment
+Created-By: Maven Integration for Eclipse
+

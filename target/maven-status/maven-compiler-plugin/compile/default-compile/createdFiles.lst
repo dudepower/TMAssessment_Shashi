@@ -1,0 +1,10 @@
+com\assessment\access\Team.class
+com\assessment\main\Testings.class
+com\assessment\access\BaseDataAccessBean.class
+com\assessment\access\TeamSkill.class
+com\assessment\access\TeamAccessBean.class
+com\assessment\access\TeamSkillAccessBean.class
+com\assessment\access\DBProvider.class
+com\assessment\access\TaskAccessBean.class
+com\assessment\monitor\FileMonitor.class
+com\assessment\access\Task.class
